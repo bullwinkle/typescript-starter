@@ -8,5 +8,5 @@ npm start
 
 ## Build
 ```
-npx tsx
+npx tsc
 ```
