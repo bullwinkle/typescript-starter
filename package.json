@@ -1,8 +1,8 @@
 {
-  "name": "typescript-learn",
+  "name": "typescript-starter",
   "version": "1.0.0",
-  "description": "learning typescript",
-  "main": "index.js",
+  "description": "Basic starter typescript app with webpack",
+  "main": "dist/main.js",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"

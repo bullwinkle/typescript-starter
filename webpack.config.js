@@ -3,10 +3,10 @@ const path = require('path');
 module.exports = {
 	mode: "development",
 	devtool: "source-map",
-	entry: "./src/app.ts",
+	entry: "./src/main.ts",
 	output: {
 		path: path.resolve(__dirname,'dist'),
-		filename: "app.js"
+		filename: "main.js"
 	},
 	resolve: {
 		extensions: ['.ts','.js']
